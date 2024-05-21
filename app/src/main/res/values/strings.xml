@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android_HomeWork_11</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="hint_edit_text">Введите текст</string>
+    <string name="button_save_text">СОХРАНИТЬ</string>
+    <string name="button_clear_text">ОЧИСТИТЬ</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
